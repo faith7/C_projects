@@ -1,10 +1,3 @@
-/*
-   Course: CS30200
-   Name: Grace Carrillo	
-   Email: gcarril@pnw.edu
-   Assignment: 2
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>

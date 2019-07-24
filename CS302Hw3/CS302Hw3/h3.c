@@ -1,10 +1,3 @@
-/*
-   Course: CS30200
-   Name: Grace Carrillo	
-   Email: gcarril@pnw.edu
-   Assignment: 3
-*/
-
 #include <windows.h>
 #include <stdio.h>	
 #define TOTAL_CPU 8
