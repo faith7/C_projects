@@ -2,7 +2,7 @@
 
 These are my solutions to windows operating systems assignments. Detailed infomration about the projects can be found [here.](http://math.pnw.edu/~rlkraft/cs30200-2018/homework.html)
 
-### What are the assignment about?
+### What are the assignments about?
 
      1. A "filter program" that results random data into specified decimal points format.
      2. A  "launcher" program that creates Windows processes.
